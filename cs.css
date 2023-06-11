@@ -1,0 +1,25 @@
+
+div{position: absolute;}
+#a{width: 700px; height: 500px; background-color: aqua;}
+#b{width: 30px; height: 30px; background-color: black; border-radius: 50px 50px 50px 50px;}
+
+#po{width: 20px; height: 100px; background-color: black; top:200px;}
+#pt{width: 1.5em; height: 8em; background-color: black; left:600px; top:200px;}
+
+#mo{text-align: center;}
+
+@media screen {
+
+#a{width:100%; height:100%;}
+
+#tb{width:100%; height:100%;}
+
+#u{width:100%; height: 50%;}
+#d{width:100%; height: 50%;}
+
+}
+
+#u{position: relative;opacity:0}
+#d{position: relative;opacity:0;}
+
+
